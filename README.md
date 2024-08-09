@@ -62,7 +62,7 @@ The project code base structure is as below:
     $ git clone https://github.com/amilaub/healthcare-medical-fraud-detection.git
     ```
 
-    or Download Zip from <https://github.com/monikajangam/DIC-project.git> & Extract it.
+    or Download Zip from <https://github.com/monikajangam/healthcare-medical-fraud-detection.git> & Extract it.
 
     Then move into the app root folder.
 
